@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=250&section=header&text=Sahithi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Software+Engineer;Web+Developer;Problem+Solver;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Software+Engineer;Web+Developer;AI%2FML+Explorer;Problem+Solver;Open+Source+Enthusiast" />
 
 </div>
 
@@ -27,41 +27,53 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 ```python
-class Sahithi:
+class SahithiProfile:
+
     def __init__(self):
+
         self.role = "Computer Science Engineering Student"
+
         self.location = "India 🇮🇳"
-        
+
         self.skills = [
             "Web Development",
             "Python Programming",
             "Problem Solving",
-            "Data Structures Basics",
+            "Data Structures & Algorithms",
             "Frontend Development"
         ]
 
+        self.current_focus = [
+            "Data Structures & Algorithms",
+            "Full Stack Web Development",
+            "AI/ML Fundamentals",
+            "Open Source Contributions"
+        ]
+
     def mindset(self):
+
         return [
             "Consistency + Hard Work = Success 🚀",
             "Learn → Build → Improve → Repeat 🔁",
             "Stay curious and keep exploring 💡"
         ]
-
 ```
 
+---
 
-<!-- ✨ Smooth Gradient Divider -->
- <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/>
+</p>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
   Tech Arsenal
 </h2>
 
-
 <div align="center">
 
 <table style="border-collapse: separate; border-spacing: 40px 25px;">
+
 <tr>
 
 <td align="center">
@@ -91,10 +103,8 @@ class Sahithi:
 
 <td align="center">
 
-### 🧠 Core Skills  
-`Problem Solving`  
-`Data Structures`  
-`Logical Thinking`
+### 🚀 Learning  
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
 
 </td>
 
@@ -102,22 +112,48 @@ class Sahithi:
 
 </table>
 
-
 </div>
 
-<!-- ✨ Smooth Gradient Divider -->
- <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/> </p>
+---
 
-<!-- ✨ Divider -->
+## 🚀 Featured Projects
+
+### 🌾 FUTURE FARM
+Smart agriculture platform with:
+- Crop Insurance
+- Disease Detection
+- Smart Farming
+- Direct Market Access
+
+### 🛡️ PishGuard
+Student rental scam prevention platform focused on safe housing and verification systems.
+
+### 🐛 Pest Simulation System
+Simulation-based agricultural pest analysis project using data-driven insights.
+
+### 🎨 GitHub Dev Card Generator
+AI-powered GitHub developer profile card generator using FastAPI + React.
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- React.js
+- Backend Development
+- AI/ML Basics
+- Open Source Contributions
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ec4,100:7873f5&height=2"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%"/>
 </p>
 
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
 
-<!-- Top Row (smaller) -->
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahithi7396&theme=radical" />
 
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahithi7396&theme=radical" />
@@ -128,14 +164,16 @@ class Sahithi:
 
 <div align="center">
 
-<!-- Bottom Graph (smaller) -->
 <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahithi7396&theme=radical" />
 
 </div>
 
-<!-- ✨ Divider -->
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ec4,100:7873f5&height=2"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahithi7396&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -144,8 +182,8 @@ class Sahithi:
 
 <div align="center">
 
-I love exploring new tech, solving challenges,<br>
-and continuously improving myself 🚀  
+I love exploring new technologies, solving real-world problems,  
+and continuously improving myself 🚀
 
 <br>
 
@@ -154,3 +192,9 @@ and continuously improving myself 🚀
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
+
+</div>
